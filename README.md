@@ -21,5 +21,7 @@ I've updated some textures to fit perfectly with the [IMOZOU BODY](https://steam
    # - Paste the downloaded folders here:
    RimWorld\Mods\3333852502\Textures\MAU
 
-[img]https://https://imgur.com/qWZ4mM6.jpeg[/img]
-[img]https://i.imgur.com/FexPZn6.jpeg[/img]
+## 🖼️ Preview
+
+![Image 1](https://i.imgur.com/qWZ4mM6.jpeg)
+![Image 2](https://i.imgur.com/FexPZn6.jpeg)
